@@ -1,0 +1,21 @@
+.satu{
+    width: 250px;
+    height: 100px;
+    background-color: aqua;
+    border: red dotted 8px;
+    overflow: scroll ;
+}
+.dua{
+    width: 250px;
+    height: 100px;
+    background-color: aqua;
+    border: green solid 2px;
+    overflow: scroll ;
+}
+.tiga{
+    width: 250px;
+    height: 100px;
+    background-color: aqua;
+    border: blue dashed 12px;
+    overflow: scroll ;
+}
